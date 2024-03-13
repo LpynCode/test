@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  --primary: #432EAB;
+  --primary-light: #D4DEFE;
+  --font-black: #262C40;
+  --font-gray: #8189A3;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: var(--font-black);
+}
+
+#root {
+  height: 100vh;
+  max-width: 1120px;
+  margin: 0 auto;
+}

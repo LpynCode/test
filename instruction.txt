@@ -1,0 +1,3 @@
+В папке client FRONTEND:
+    1. npm intsall
+    2. npm run dev - для запуска в dev режиме
